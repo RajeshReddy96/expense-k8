@@ -7,5 +7,5 @@ spec:
   containers:
   # docker run -d --name nginx nginx
   - name: debug
-    image: rajesh731/debug:v1
+    image: rajesh731/debug:v1   # our dockerhub
 
