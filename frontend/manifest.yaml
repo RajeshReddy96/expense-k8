@@ -37,7 +37,7 @@ spec:
     tier: web
     project: expense
   ports:
-  - name: backend-port
+  - name: frontend-port
     protocol: TCP
     port: 80 # service port
     targetPort: 80 # container port    
